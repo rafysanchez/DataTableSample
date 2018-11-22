@@ -38,3 +38,5 @@ E:\Blogprojeler\dotnet\jquerydatatableajax\repo\DataTableSample\DataTableSample\
 E:\Blogprojeler\dotnet\jquerydatatableajax\repo\DataTableSample\DataTableSample\obj\Debug\DataTableSample.csprojResolveAssemblyReference.cache
 E:\Blogprojeler\dotnet\jquerydatatableajax\repo\DataTableSample\DataTableSample\obj\Debug\DataTableSample.dll
 E:\Blogprojeler\dotnet\jquerydatatableajax\repo\DataTableSample\DataTableSample\obj\Debug\DataTableSample.pdb
+C:\Users\rportal\Documents\GitHub\DataTableSample\obj\Debug\DataTableSample.dll
+C:\Users\rportal\Documents\GitHub\DataTableSample\obj\Debug\DataTableSample.pdb

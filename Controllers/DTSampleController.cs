@@ -17,7 +17,7 @@ namespace DataTableSample.Controllers
         public ActionResult Students()
         {
             Models.DataTable dataTable = new Models.DataTable();
-            dataTable.draw = int.Parse(Request.QueryString["draw"]);
+            dataTable.draw = int.Parse(Request.QueryString["draw"])?null:0;
 
             List<Models.Student> students = new List<Models.Student>();
             students.Add(new Models.Student { Id = 1, Name = "Mike", SurName = "Mikey", ClassRoom = "8A" });
